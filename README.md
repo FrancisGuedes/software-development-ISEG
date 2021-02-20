@@ -13,10 +13,10 @@ This are some exercises and paper works from the class of Software Developtment 
 
 ### Class Goals
 
-- Get to know Computing Principles
-- Knowing and diferenciate Programming Paradigmas
-- Introduction to Python
-- Knowing the first elements of a program
-- Classes and Objects concepts
+1. Get to know Computing Principles
+2. Knowing and diferenciate Programming Paradigmas
+3. Introduction to Python
+4. Knowing the first elements of a program
+5. Classes and Objects concepts
 
 
