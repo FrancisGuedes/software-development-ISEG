@@ -13,10 +13,10 @@ This are some exercises and paper works from the class of Software Developtment 
 
 ### Objectives
 
-01 - Computing Principles
-02 - Programming Paradigmas
-03 - Introduction to Python
-04 - Knowing the first elements of a program
-05 - Classes and Objects concepts
+- Computing Principles
+- Programming Paradigmas
+- Introduction to Python
+- Knowing the first elements of a program
+- Classes and Objects concepts
 
 
