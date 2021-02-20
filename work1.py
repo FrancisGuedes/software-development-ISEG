@@ -1,5 +1,6 @@
-## Problema 1
+# Problema 1
 
+''' 
 Pretende-se desenvolver um programa que obtenha um texto a partir da linha de comandos e
 converta esse texto da seguinte forma:
 
@@ -11,13 +12,14 @@ para “alo”
 Exemplos de testes:
 ➢ Introduza um texto: Um bom dia a todos!
 A aplicação deve escrever na consola:
-➢ !sOdOt A AId mOb mu
+➢ !sOdOt A AId mOb mu 
+'''
 
-#### NOTA: não é permitido usar funções e extensões de Python, como replace(). Devem limitar-se à
-utilização dos comandos aprendidos em aula.
+# NOTA: não é permitido usar funções e extensões de Python, como replace(). Devem limitar-se à utilização dos comandos aprendidos em aula.
 
-## Problema 2
+# Problema 2
 
+'''
 Pretende-se desenvolver um programa de radiciação, i.e, para o cálculo de raízes , considerando
 que a solução é o valor V, se Vn = a
 
@@ -29,3 +31,4 @@ B (algoritmos de bissecção).
 Devem seguir o exemplo das aulas (que ilustra a implementação dos três algoritmos para a raiz cúbica)
 e adaptá-lo para que funcione com quaisquer valores e imprima também o número de iterações
 necessárias para chegar ao resultado.
+'''
